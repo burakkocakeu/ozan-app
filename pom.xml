@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.burakkocak.casestudies</groupId>
-    <artifactId>exchange-service</artifactId>
+    <artifactId>ozan-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>exchange-service</name>
+    <name>ozan-app</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>16</java.version>
